@@ -1,0 +1,13 @@
+.cardMeteo{
+    /* border: 3px solid red; */
+    width: 200px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(2,0,36);
+    background: linear-gradient(233deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 60%, rgba(0,212,255,1) 100%);
+    color: white;
+    border-radius: 10px;
+
+}
