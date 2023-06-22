@@ -1,7 +1,6 @@
 .cardMeteo{
     /* border: 3px solid red; */
-    width: 200px;
-    height: 300px;
+
     display: flex;
     justify-content: center;
     align-items: center;
